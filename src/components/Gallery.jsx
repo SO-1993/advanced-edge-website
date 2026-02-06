@@ -4,28 +4,39 @@ import { useLocation } from "react-router-dom";
 // New Driveways
 const drivewaysItems = [
   {
-    file: "block_paving_driveway.jpg",
-    text: "Block paving driveway with granite slab path and lighting",
-  },
-  { file: "driveway1.jpeg", text: "Part 1 of project" },
-  { file: "driveway2.jpeg", text: "Part 2 of project" },
-  { file: "driveway3.jpeg", text: "Part 3 of project" },
-  { file: "driveway4.jpg", text: "Part 4 of project" },
-  { file: "driveway5.jpeg", text: "Part 5 of project" },
-  { file: "driveway6.jpg", text: "Part 6 of project" },
-  {
     file: "driveway7.jpg",
     text: "Modern driveway with granite slab path and lighting",
   },
+  { file: "driveway1.jpeg", text: "Front garden: prior to driveway work commencing" },
+  { file: "driveway5.jpeg", text: "Front garden: prior to driveway work commencing" },
+  { file: "driveway2.jpeg", text: "Prep work begins: digging out stone" },
+  { file: "driveway3.jpeg", text: "Aco drains and block border installed, ready for block paving" },
+  { file: "driveway6.jpg", text: "Block paving phase complete" },
+  { file: "dway11.jpeg", text: "Footpath area prepped prior to granite slab installation" },
+  {
+    file: "block_paving_driveway.jpg",
+    text: "Block paving driveway with granite slab path and lighting",
+  },
+  { file: "dway9.jpeg", text: "Driveway lifted and relaid with new inspection chambers installed" },
+  { file: "dway10.jpeg", text: "Aco channel damaged, in need of replacing" },
+  { file: "dway7.jpeg", text: "Driveway: before being lifted and relaid" },
+  {
+    file: "double_driveway2.jpeg",
+    text: "Double driveway prepped, ready for finished tarmac",
+  },
+  {
+    file: "double_driveway1.jpeg",
+    text: "Double driveway prepped with electrical ducting; ready for car charging points to be installed",
+  },
   {
     file: "driveway8.jpg",
-    text: "Block paved driveway installed with drainage improvements",
+    text: "Block paved driveway installed with new edgings and aco drainage improvements",
   },
-  { file: "double_driveway1.jpeg", text: "Part 1 of DD project" },
-  { file: "double_driveway2.jpeg", text: "Part 2 of DD project" },
-
-  { file: "another_driveway1.jpeg", text: "Part 1 of AD project" },
-  { file: "another_driveway2.jpeg", text: "Part 2 of AD project" },
+  { file: "another_driveway1.jpeg", text: "New edgings, ground prepped, ready for block paving" },
+  {
+    file: "another_driveway2.jpeg",
+    text: "Tired worn driveway before installation of new blockpaving",
+  },
 ];
 
 // Patios & Paving
@@ -64,16 +75,38 @@ const patiosAndPavingItems = [
     file: "kandla_grey_porcelain.jpg",
     text: "Kandla Grey porcelain with charcoal block border",
   },
+
+  // "/assets/images/gravel_pathway.jpeg",
+  // text:
+  //to add here
 ];
 
 // Groundworks & Drainage
 const groundworksAndDrainageItems = [
-  { file: "footpath1.jpeg", text: "Part 1 of footpath project" },
-  { file: "footpath2.jpeg", text: "Part 2 of footpath project" },
-  { file: "footpath3.jpeg", text: "Part 3 of footpath project" },
-  { file: "footpath4.jpeg", text: "Part 4 of footpath project" },
-  { file: "footpath6.jpeg", text: "Part 5 of footpath project" },
-  { file: "footpath5.jpeg", text: "Part 6 of footpath project" },
+  {
+    file: "footpath1.jpeg",
+    text: "3-metre wide public footpath formed; ready for tarmac",
+  },
+  {
+    file: "footpath2.jpeg",
+    text: "3-metre wide public footpath formed; ready for tarmac",
+  },
+  {
+    file: "footpath3.jpeg",
+    text: "3-metre wide public footpath formed; ready for tarmac",
+  },
+  {
+    file: "footpath4.jpeg",
+    text: "3-metre wide public footpath formed; installing radius edging on footpath",
+  },
+  {
+    file: "footpath6.jpeg",
+    text: "3-metre wide public footpath formed; initial tarmcing completed; ready for finishing tarmac",
+  },
+  {
+    file: "footpath5.jpeg",
+    text: "3-metre wide public footpath formed; initial tarmcing completed; ready for finishing tarmac",
+  },
   {
     file: "excevation.jpg",
     text: "Precise excavation for water main connection",
@@ -82,25 +115,66 @@ const groundworksAndDrainageItems = [
     file: "concrete_floors.jpg",
     text: "Concrete floors poured, ready for garage build",
   },
+
+  {
+    file: "waste_pipe_1.jpeg",
+    text: "Waste pipe connection for WC",
+  },
+  {
+    file: "waste_pipe_2.jpeg",
+    text: "Waste pipe connection for WC",
+  },
+  {
+    file: "waste_pipe_3.jpeg",
+    text: "Waste pipe connection for WC",
+  },
+  {
+    file: "waste_pipe_4.jpeg",
+    text: "Waste pipe connection for WC",
+  },
+
+  {
+    file: "internal_drainage_1.jpeg",
+    text: "Internal drainage installed for new build property",
+  },
+  {
+    file: "internal_drainage_2.jpeg",
+    text: "Internal drainage installed for new build property",
+  },
+  {
+    file: "internal_drainage_3.jpeg",
+    text: "Internal drainage installed for new build property",
+  },
+  {
+    file: "installed_gravelled_1.jpeg",
+    text: "Land installed; gravelled to prevent silt from entering balancing pond",
+  },
+  {
+    file: "installed_gravelled_2.jpeg",
+    text: "Land installed; gravelled to prevent silt from entering balancing pond",
+  },
+  {
+    file: "installed_gravelled_3.jpeg",
+    text: "Land installed; gravelled to prevent silt from entering balancing pond",
+  },
 ];
 
 // Landscaping & Remedial Work
 const landscapingAndRemedialWorkItems = [
-  { file: "garden1.jpeg", text: "Part 1 of garden project" },
-  { file: "garden2.jpeg", text: "Part 2 of garden project" },
-  { file: "garden3.jpeg", text: "Part 3 of garden project" },
-  { file: "garden4.jpeg", text: "Part 4 of garden project" },
-  { file: "garden5.jpeg", text: "Part 5 of garden project" },
-
-  { file: "trampoline1.jpeg", text: "Part 1 of trampoline project" },
-  { file: "trampoline2.jpeg", text: "Part 2 of trampoline project" },
-  { file: "trampoline3.jpeg", text: "Part 3 of trampoline project" },
-  { file: "trampoline4.jpeg", text: "Part 4 of trampoline project" },
-
+  { file: "garden5.jpeg", text: "Finished garden project" },
+  { file: "garden6.jpg", text: "Finished garden project" },
+  { file: "garden2.jpeg", text: "Garden foundations laid" },
+  { file: "garden4.jpeg", text: "New slabs laid in garden" },
+  { file: "garden1.jpeg", text: "Original image of garden prior to work being commenced" },
   {
     file: "garden_transformation.jpg",
     text: "Complete garden transformation with porcelain patio and turf",
   },
+  { file: "trampoline4.jpeg", text: "Trampoline project: completed" },
+  { file: "trampoline3.jpeg", text: "Trampoline project: laying the foundations" },
+  { file: "trampoline2.jpeg", text: "Trampoline project: digging the hole" },
+  { file: "trampoline1.jpeg", text: "Trampoline project: before work commenced" },
+
 ];
 
 function GallerySection({ title, items, sectionRef }) {

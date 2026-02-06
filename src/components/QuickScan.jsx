@@ -14,17 +14,17 @@ function QuickScan() {
       <div className="quick-scan-inner">
         <div className="scan-item">
           <FiBriefcase className="scan-icon" />
-          <p>150+ Projects Completed</p>
+          <p>100+ Projects Completed</p>
         </div>
 
         <div className="scan-item">
           <FiStar className="scan-icon" />
-          <p>5.0 Average Rating</p>
+          <p>Highly Rated</p>
         </div>
 
         <div className="scan-item">
           <FiClock className="scan-icon" />
-          <p>15+ Years Experience</p>
+          <p>20+ Years Experience</p>
         </div>
 
         <div className="scan-item">

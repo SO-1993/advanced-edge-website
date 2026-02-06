@@ -3,14 +3,19 @@ import "../css/index.css";
 import { useNavigate } from "react-router-dom";
 import { useState, useEffect } from "react";
 
+
+
+
 function HeroSection() {
   const images = [
     "/assets/images/hero_img.jpg",
     "/assets/images/driveway7.jpg",
     "/assets/images/excevation.jpg",
-    "/assets/images/patio_extension.jpg",
+    // "/assets/images/patio_extension.jpg",
+    "/assets/images/garden_transformation.jpg", // newly added
     "/assets/images/nhbc_compliant.jpg",
-    "/assets/images/gravel_pathway.jpeg",
+    // "/assets/images/gravel_pathway.jpeg",
+    // add here: final_garden
     "/assets/images/garden5.jpeg",
   ];
 
