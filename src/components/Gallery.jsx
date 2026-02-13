@@ -174,6 +174,10 @@ const landscapingAndRemedialWorkItems = [
   { file: "trampoline3.jpeg", text: "Trampoline project: laying the foundations" },
   { file: "trampoline2.jpeg", text: "Trampoline project: digging the hole" },
   { file: "trampoline1.jpeg", text: "Trampoline project: before work commenced" },
+  { file: "remedial_drive1.jpeg", text: "Remedial works on a single drive: broke out damaged edgings and replaced with new." },
+  { file: "remedial_drive2.jpeg", text: "Remedial works on a single drive: broke out damaged edgings and replaced with new." },
+  { file: "damaged_kerb1.jpeg", text: "Old damaged kerbs removed and replaced with new; tactile crossing prepped." },
+  { file: "damaged_kerb2.jpeg", text: "Old damaged kerbs removed and replaced with new; tactile crossing prepped." },
 
 ];
 

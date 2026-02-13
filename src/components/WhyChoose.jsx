@@ -10,8 +10,8 @@ function WhyChoose() {
         <div>
           <h4>Craftsmanship Built on Experience</h4>
           <p>
-            Precision-led groundwork and paving shaped by years of hands-on,
-            professional site experience.
+            Specialist groundwork and paving delivered with years of hands-on
+            industry experience and meticulous attention to detail.
           </p>
         </div>
       </div>
@@ -21,8 +21,10 @@ function WhyChoose() {
         <div>
           <h4>Uncompromising Standards</h4>
           <p>
-            Every stage carefully planned and executed to ensure long-term
-            performance and refined results.
+            Every stage is carefully planned and executed to ensure durability,
+            performance, and a refined finish. We take pride in the details,
+            delivering clean, precise workmanship that reflects our reputation
+            for quality.
           </p>
         </div>
       </div>
@@ -32,8 +34,8 @@ function WhyChoose() {
         <div>
           <h4>Professional, Transparent Service</h4>
           <p>
-            Clear communication, honest guidance, and well-defined pricing from
-            consultation to completion.
+            Fully insured with comprehensive public liability cover, giving you
+            complete peace of mind throughout your project.
           </p>
         </div>
       </div>
@@ -41,10 +43,11 @@ function WhyChoose() {
       <div className="feature">
         <FiStar className="feature-icon" />
         <div>
-          <h4>Pride in Detail & Finish</h4>
+          <h4>Fully Insured</h4>
           <p>
-            Careful attention to every detail, leaving a clean, precise finish
-            that reflects our reputation.
+            Rest easy in the knowledge that those of us at Advanced Edge are
+            fully insured in accordance with public liabiltiy insurance (TO
+            EDIT!!).
           </p>
         </div>
       </div>
