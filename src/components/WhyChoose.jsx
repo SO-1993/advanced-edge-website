@@ -10,8 +10,8 @@ function WhyChoose() {
         <div>
           <h4>Craftsmanship Built on Experience</h4>
           <p>
-            Specialist groundwork and paving delivered with years of hands-on
-            industry experience and meticulous attention to detail.
+            Precision-led groundwork and paving shaped by years of hands-on,
+            professional site experience.
           </p>
         </div>
       </div>
@@ -21,10 +21,9 @@ function WhyChoose() {
         <div>
           <h4>Uncompromising Standards</h4>
           <p>
-            Every stage is carefully planned and executed to ensure durability,
-            performance, and a refined finish. We take pride in the details,
-            delivering clean, precise workmanship that reflects our reputation
-            for quality.
+            Precision planning and execution to achieve long-term performance
+            and refinded results.
+            <p></p>
           </p>
         </div>
       </div>
@@ -34,8 +33,8 @@ function WhyChoose() {
         <div>
           <h4>Professional, Transparent Service</h4>
           <p>
-            Fully insured with comprehensive public liability cover, giving you
-            complete peace of mind throughout your project.
+            Clear communication, honest advice, and transparent pricing from
+            initial consultation through to project completion.
           </p>
         </div>
       </div>
@@ -45,9 +44,8 @@ function WhyChoose() {
         <div>
           <h4>Fully Insured</h4>
           <p>
-            Rest easy in the knowledge that those of us at Advanced Edge are
-            fully insured in accordance with public liabiltiy insurance (TO
-            EDIT!!).
+            Fully insured with comprehensive public liability cover, giving you
+            complete peace of mind throughout your project.
           </p>
         </div>
       </div>
